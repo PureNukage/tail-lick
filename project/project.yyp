@@ -63,11 +63,35 @@
             }
         },
         {
+            "Key": "235a1da4-0a6c-4bcc-9b74-9c04df31950d",
+            "Value": {
+                "id": "c98f92b6-f65d-4637-b989-093374951c72",
+                "resourcePath": "objects\\gui\\gui.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "30fe86a3-7711-4733-a107-b97035ffbd94",
+            "Value": {
+                "id": "2ab16c74-80c9-4121-b7f8-c6d83f04d075",
+                "resourcePath": "datafiles_yy\\script.csv.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "506569ab-9d8a-4adb-99cc-2d013bbd12c5",
             "Value": {
                 "id": "9edd9cee-32e9-4fa5-bc14-598e0d9ba1c8",
                 "resourcePath": "views\\506569ab-9d8a-4adb-99cc-2d013bbd12c5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5541decf-652e-4a4e-a0a2-aa777608127b",
+            "Value": {
+                "id": "7c1109e9-d3dc-4ebc-83bd-53adb9d0d8c3",
+                "resourcePath": "sprites\\sprite1\\sprite1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -95,11 +119,27 @@
             }
         },
         {
+            "Key": "6aacb749-a6e2-48e1-9349-45690cf1943b",
+            "Value": {
+                "id": "20d98bec-ad73-41f7-9fcc-87a2f77eceb4",
+                "resourcePath": "objects\\app\\app.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "b0517719-fc38-4a33-9597-bd7a60d7f0f1",
                 "resourcePath": "options\\html5\\options_html5.yy",
                 "resourceType": "GMHtml5Options"
+            }
+        },
+        {
+            "Key": "8053ab12-298d-4225-a2a9-c532672c5933",
+            "Value": {
+                "id": "ada8c94e-09f1-4414-9ab5-31406dc28f1c",
+                "resourcePath": "objects\\input\\input.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -127,6 +167,14 @@
             }
         },
         {
+            "Key": "9b23a100-7dfd-4964-bdcb-65425e5dd3ba",
+            "Value": {
+                "id": "783b6744-abf7-404b-9780-1db5cb309d22",
+                "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
             "Value": {
                 "id": "0706df72-9bbc-463b-ab20-f2ef0ab32900",
@@ -143,11 +191,27 @@
             }
         },
         {
+            "Key": "ad3bad45-273d-4b10-b698-fab46b7c4cb8",
+            "Value": {
+                "id": "767b1218-3fc8-4fa2-b125-a5ca8d47ca2d",
+                "resourcePath": "objects\\dialogue\\dialogue.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b6081bd6-d008-4221-be44-62f0337c1a95",
             "Value": {
                 "id": "200c7bda-5cd0-49ee-a478-2d547fea24e1",
                 "resourcePath": "views\\b6081bd6-d008-4221-be44-62f0337c1a95.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b7465a19-b186-4c55-a22f-aced9ed18338",
+            "Value": {
+                "id": "edcc29d4-84e1-4c5b-8d94-fbd3e7de555d",
+                "resourcePath": "objects\\character\\character.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -164,6 +228,14 @@
                 "id": "afc98730-2039-40ed-9066-84e58052f3ce",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d37d2417-2910-4bd1-ba27-1607db74ffbd",
+            "Value": {
+                "id": "2e27fa12-1ece-470e-97ef-61a697078699",
+                "resourcePath": "scripts\\definitions\\definitions.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -240,6 +312,7 @@
         }
     ],
     "script_order": [
+        "d37d2417-2910-4bd1-ba27-1607db74ffbd",
         "fa634feb-e192-426a-bbb6-8cea81471bf7"
     ],
     "tutorial": ""
